@@ -1,4 +1,5 @@
 # Aula — Compiladores Da Linguagem Go / Golang
+<img width="889" height="499" alt="image" src="https://github.com/user-attachments/assets/7bf55331-6c14-4715-9970-2cc2c18cacca" />
 ### Prof.Dr. Murillo Carvalho
 ## Compiladores
 
