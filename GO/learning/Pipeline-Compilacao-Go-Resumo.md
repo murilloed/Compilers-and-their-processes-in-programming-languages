@@ -54,6 +54,9 @@ Execução
 
 ## 1. Análise Léxica
 
+<img width="800" height="238" alt="image" src="https://github.com/user-attachments/assets/1c38135a-ffd4-4cd5-b80d-9e946ca25b7e" />
+
+
 A primeira etapa é decompor o código-fonte em **tokens**.
 
 Esse processo também é chamado de:
@@ -93,6 +96,9 @@ Durante essa etapa, espaços em branco e comentários geralmente são descartado
 
 ## 2. Análise Sintática
 
+<img width="800" height="238" alt="image" src="https://github.com/user-attachments/assets/9d736510-9dc2-476f-b929-65529f1dfcb6" />
+
+
 Depois da análise léxica, o compilador realiza a **análise sintática**.
 
 Essa etapa verifica se os tokens estão organizados de acordo com a gramática da linguagem Go.
@@ -129,6 +135,9 @@ Essa árvore permite que o compilador entenda a organização lógica do código
 
 ## 3. Análise Semântica
 
+<img width="800" height="238" alt="image" src="https://github.com/user-attachments/assets/8c7ea6a4-55a5-4af2-bf91-2e6e047643aa" />
+
+
 Na análise semântica, o compilador verifica se o código faz sentido de acordo com as regras da linguagem.
 
 Ele verifica, por exemplo:
@@ -154,6 +163,9 @@ O código pode até parecer bem estruturado sintaticamente, mas está semanticam
 ---
 
 ## 4. Representação Intermediária
+
+<img width="800" height="238" alt="image" src="https://github.com/user-attachments/assets/2c0d0057-2f34-4a32-8469-92cf43b2cc44" />
+
 
 Após a análise semântica, o compilador gera uma **representação intermediária**, também chamada de **RI** ou **IR**.
 
@@ -181,6 +193,9 @@ Algumas otimizações ou análises associadas a essa fase incluem:
 ---
 
 ## 5. SSA — Static Single Assignment
+
+<img width="800" height="220" alt="image" src="https://github.com/user-attachments/assets/5680d846-638d-4d75-9f72-81df95e00954" />
+
 
 SSA significa:
 
@@ -224,6 +239,9 @@ Com SSA, o compilador consegue realizar otimizações como:
 
 ## 6. Geração De Código
 
+<img width="800" height="220" alt="image" src="https://github.com/user-attachments/assets/950ddbf7-de5a-4f24-82e1-070875e5f95b" />
+
+
 Depois das otimizações, a representação intermediária é traduzida para código de máquina da plataforma de destino.
 
 Essa plataforma pode ser, por exemplo:
@@ -251,6 +269,9 @@ Pode ser convertido em instruções de baixo nível que somam valores em registr
 ---
 
 ## 7. Vinculação
+
+<img width="800" height="220" alt="image" src="https://github.com/user-attachments/assets/77944baa-d590-4cb9-9e8c-12ea83bda319" />
+
 
 A etapa de **vinculação**, ou **linkedição**, é realizada pelo linker.
 
@@ -282,6 +303,9 @@ O resultado é um binário executável completo.
 ---
 
 ## 8. Execução
+
+<img width="800" height="220" alt="image" src="https://github.com/user-attachments/assets/52a16c87-1507-478f-ae3d-68d392f0e5ad" />
+
 
 Depois da vinculação, o executável final pode ser executado na máquina de destino.
 
