@@ -71,7 +71,7 @@ A figura abaixo resume as principais ideias desta aula: linguagem host, bootstra
 <img width="1536" height="1024" alt="go-bootstrapping-visao-geral" src="https://github.com/user-attachments/assets/0b0b8cb0-0e39-4c6d-8e4a-3c42c3214e80" /><img width="1536" height="1024" alt="go-bootstrapping-diagrama-t" src="https://github.com/user-attachments/assets/92dcb458-64f9-4736-bc67-4f54a43a4707" />
 
 
-Use essa imagem como mapa mental da aula.
+Use essa imagem como mapa mental.
 
 Ela mostra que:
 
@@ -99,7 +99,7 @@ A ideia geral é:
 
 Quando isso funciona, dizemos que a linguagem atingiu um estágio **self-hosted**, ou autohospedado.
 
-Analogia para explicar em sala:
+Analogia:
 
 > É como construir uma máquina simples que ajuda a construir uma máquina melhor. Depois, a máquina melhor passa a construir versões futuras dela mesma.
 
@@ -427,9 +427,12 @@ sistemas embarcados
 ferramentas de linha de comando
 ```
 
-Pergunta para os alunos:
+Respondam:
 
 > Por que compilar no notebook e executar em outro dispositivo pode ser melhor do que compilar direto no dispositivo final?
+
+
+
 
 Resposta esperada:
 
@@ -651,7 +654,7 @@ No caso do Go, isso representa:
 - simplicidade operacional;
 - facilidade para compilar em diferentes plataformas.
 
-Frase final:
+
 
 > O bootstrapping é o ponto em que uma linguagem começa usando uma escada externa, mas depois aprende a construir sua própria escada.
 
