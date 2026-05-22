@@ -1,4 +1,4 @@
-# Aula — Bootstrapping, Linguagem Host E Cross-Compiler Na Compilação Go
+# Bootstrapping, Linguagem Host E Cross-Compiler Na Compilação Go
 
 ## Objetivo Da Aula
 
