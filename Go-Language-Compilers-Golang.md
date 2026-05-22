@@ -79,6 +79,8 @@ Executável nativo
  ↓
 CPU
 ```
+<img width="1024" height="1536" alt="f37e7196-b266-4dd1-9e6b-964e9ba478f6" src="https://github.com/user-attachments/assets/8ee7305c-7007-4cb4-96b5-31b3b59f0563" />
+
 
 Esse pipeline mostra que Go não executa o `.go` diretamente. O código passa por várias fases internas até virar binário.
 
