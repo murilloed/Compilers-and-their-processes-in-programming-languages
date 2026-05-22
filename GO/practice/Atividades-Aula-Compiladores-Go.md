@@ -4,7 +4,7 @@
 
 Tempo total: **1h40min**, ou **100 minutos**.
 
-Modelo sugerido:
+Timetable:
 
 | Tempo | Momento |
 |---|---|
