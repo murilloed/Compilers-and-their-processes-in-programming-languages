@@ -186,7 +186,7 @@ Links uteis:
 
 Importante para os alunos: o GitHub acima e um clone/mirror util para navegacao e estudo, mas a origem historica/oficial do projeto fica no SourceForge.
 
-## 12. Onde os alunos podem simular COBOL online?
+## 12. Onde vocês podem simular COBOL online?
 
 Opcoes praticas para sala:
 
@@ -205,11 +205,11 @@ Sugestao de atividade online:
 6. Somar e exibir o resultado.
 7. Anotar quais erros de compilacao apareceram quando erraram a sintaxe.
 
-## 13. Aula de 50 minutos
+## 13. Prossigamos com aula:
 
 Tema da aula: Do COBOL ao executavel: como um programa legado vira processamento real
 
-Objetivo da aula: fazer o aluno entender como um programa COBOL e compilado, ligado a bibliotecas, executado em ambientes corporativos/mainframe e por que ainda e tao importante.
+Objetivo da aula: Entender como um programa COBOL e compilado, ligado a bibliotecas, executado em ambientes corporativos/mainframe e por que ainda e tao importante.
 
 ## 14. Roteiro da aula
 
@@ -333,8 +333,6 @@ Desafios:
 5. Explicar o que significa `PIC 9(2)`.
 
 ## 20. Fechamento
-
-Frase para encerrar:
 
 > COBOL mostra que compiladores nao sao apenas teoria: eles sustentam sistemas reais, criticos e bilionarios.
 
