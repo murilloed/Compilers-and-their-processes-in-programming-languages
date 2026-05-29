@@ -211,21 +211,17 @@ Tema da aula: Do COBOL ao executavel: como um programa legado vira processamento
 
 Objetivo da aula: Entender como um programa COBOL e compilado, ligado a bibliotecas, executado em ambientes corporativos/mainframe e por que ainda e tao importante.
 
-## 14. Roteiro da aula
+## 14. Atividades - aula
 
 | Tempo | Momento | O que acontece |
-|---:|---|---|
-| 0-5 min | Provocacao | Pergunta: por que uma linguagem de 1959 ainda processa dinheiro, folha de pagamento e sistemas bancarios? |
-| 5-10 min | Mini explicacao | Mostrar o fluxo `.cob -> copybooks -> compilador -> objeto -> linker -> executavel/load module -> runtime` |
-| 10-20 min | Atividade 1: Pipeline Humano | Grupos representam etapas da compilacao COBOL |
-| 20-32 min | Atividade 2: Pesquisa Relampago | Alunos pesquisam COBOL moderno, mainframe, copybook, JCL, VSAM, GnuCOBOL e migracao |
-| 32-42 min | Atividade 3: Producao | Cada grupo cria mapa visual, tabela ou analogia |
-| 42-48 min | Debate | Vale modernizar COBOL ou manter sistemas legados funcionando? |
-| 48-50 min | Fechamento | Exit ticket individual |
+
+
+ Pergunta: por que uma linguagem de 1959 ainda processa dinheiro, folha de pagamento e sistemas bancarios? 
+
 
 ## 15. Atividade 1: Pipeline Humano
 
-Divida a turma em grupos:
+A turma deve ser dividia em grupos:
 
 1. Codigo-fonte COBOL
 2. COPY / copybook
@@ -247,7 +243,7 @@ Produto final: cada grupo escreve uma frase no quadro. Ao final, a turma monta o
 
 ## 16. Atividade 2: Pesquisa Relampago
 
-Cada grupo pesquisa uma pergunta:
+Cada grupo deve pesquisar uma pergunta:
 
 1. O que e um copybook em COBOL?
 2. O que e JCL e qual sua relacao com COBOL em mainframes?
@@ -268,7 +264,7 @@ Entrega:
 
 ## 17. Atividade 3: Producao
 
-Cada grupo escolhe um produto:
+Cada grupo deve escolher um produto:
 
 - mapa visual do pipeline COBOL;
 - tabela "COBOL legado vs linguagem moderna";
@@ -280,7 +276,7 @@ Cada grupo escolhe um produto:
 
 Entrega oral: 1 minuto por grupo.
 
-## 18. Debate instigador
+## 18. Debate 
 
 Pergunta central:
 
