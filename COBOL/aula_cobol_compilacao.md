@@ -340,15 +340,7 @@ Resposta esperada:
 
 > Um programa COBOL passa por copybooks/pre-processamento, compilacao, geracao de codigo objeto, link-edicao e execucao em um runtime ou ambiente mainframe.
 
-## 21. Avaliacao rapida
-
-Use 3 criterios:
-
-| Criterio | Excelente | Parcial | Precisa melhorar |
-|---|---|---|---|
-| Entendeu o pipeline | Explica todas as etapas | Explica algumas etapas | Confunde compilacao e execucao |
-| Pesquisou com qualidade | Usa fonte e exemplo | Usa apenas definicao | Nao apresenta fonte |
-| Produziu algo claro | Diagrama/tabela bem explicado | Produto incompleto | Produto confuso |
+## 21. Referências:
 
 ## 22. Referencias consultadas
 
