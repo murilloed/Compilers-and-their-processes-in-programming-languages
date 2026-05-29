@@ -21,7 +21,7 @@ PROCEDURE DIVISION.
     STOP RUN.
 ```
 
-A ideia mais importante para os alunos: COBOL nao e apenas uma linguagem antiga. Ele e parte de um ecossistema de execucao corporativa que envolve compiladores, arquivos, bancos de dados, mainframes, jobs, transacoes e regras de negocio acumuladas por decadas.
+A ideia mais importante: COBOL nao e apenas uma linguagem antiga. Ele e parte de um ecossistema de execucao corporativa que envolve compiladores, arquivos, bancos de dados, mainframes, jobs, transacoes e regras de negocio acumuladas por decadas.
 
 ## 2. Quais modelos de COBOL existem hoje?
 
