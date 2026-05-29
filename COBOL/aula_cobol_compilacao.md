@@ -2,8 +2,6 @@
 
 Tema: Do programa COBOL ao executavel: como uma linguagem legada ainda sustenta sistemas criticos
 
-Duracao: 50 minutos
-
 Publico-alvo: alunos de Compiladores, Arquitetura, Sistemas Legados ou Engenharia de Software
 
 ## 1. O que e COBOL?
