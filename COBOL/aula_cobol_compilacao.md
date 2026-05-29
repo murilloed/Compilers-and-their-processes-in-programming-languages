@@ -241,7 +241,7 @@ Exemplo de resposta:
 
 Produto final: cada grupo escreve uma frase no quadro. Ao final, a turma monta o pipeline completo.
 
-## 16. Atividade 2: Pesquisa Relampago
+## 16. Atividade 2: Pesquisa 
 
 Cada grupo deve pesquisar uma pergunta:
 
